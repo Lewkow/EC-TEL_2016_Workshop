@@ -4,8 +4,7 @@
 ### Tutorial website
 http://www.mheducation.com/content/mhe/en_us/ec-tel2016.html
 
-### Open dataset: HarvardX-MITx MOOC data
-HMXPC13_DI_v2_5-14-14.csv
+### Open dataset: HarvardX-MITx MOOC data (HMXPC13_DI_v2_5-14-14.csv)
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147
 
 ### Agenda:
