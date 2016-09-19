@@ -19,3 +19,5 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147
 * Data Analysis with Apache Spark
   * 3-Introduction_to_Spark.ipynb
   * 4-Core_Spark_Fundamentals.ipynb
+
+## Additional notebooks and data for Item Response Theory talk by Shirin Mojarad available in ItemResponseTheory directory
